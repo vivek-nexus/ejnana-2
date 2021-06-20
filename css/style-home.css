@@ -1,1 +1,50 @@
+body
+{
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.container
+{
+    max-width: 480px;
+}
+
+.navbar
+{
+    background-color: #D7CCC8;
+}
+
+.body-wrapper-nav-compensate
+{
+    margin: 5rem 1%;
+}
+
+h1
+{
+    line-height: 1.5;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.horizontal-scroll-row
+{
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.horizontal-scroll-col
+{
+    display: inline-block;
+}
+
+.card-title
+{
+    font-weight: 500;
+}
+
+
 
